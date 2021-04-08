@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Devenin's github stats](https://github-readme-stats.vercel.app/api?username=devenin)](https://github.com/devenin/github-readme-stats)
 
-##🔭 I’m currently looking for a job
+###🔭 I’m currently looking for a job
 
-##📫 How to reach me: 1330693522(qq)
+###📫 1330693522(qq)
